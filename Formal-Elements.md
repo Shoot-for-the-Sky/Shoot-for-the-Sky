@@ -36,19 +36,37 @@ While you are ascending to the the sky, different monsters and aliens will try t
 
 תארו בפירוט את:
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".  תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+*The starting proccess of the game is the player's first jump (interaction) in the game and soon after the game begins.
+ The screen of the game is ever moving so to give the players a feel of urgency, hesitate and it's game over.
+ 
+*The core proccess of the game is jumping! As a climbing game you most be comfortable with jumping, and jumping fast. You will need to time your jumps perfectly or you might not be able to reach the next platform. While climbing you might find special powerups that will make your 
+ ascend quicker and more exciting.
+ The player will use the keyboard to perform movement actions, such as moving the charcter left and right and the most important jump key.
+ There is one more special key that will give the player the ability to perform special actions during the game, but those are dependent on finding powerups beforehand.
+ 
+ 
+ *Shoot for the Sky is and endless climbing game. The game session is finished when the player's final jump is performed. The higher you reach the better the score. The camera is following the player for not only cinematics but for setting the game's arena, once the lower border of the screen catches up with the player, it is game over.
+ 
+When starting a new session the game will show the player the movement keys, but will not teach the player strategies or tips. Those will be up to the player to discover.
+ 
+### 4. Laws of the game
 
-איך השחקן ילמד על התהליכים? 
+* The laws are simple. 
+ Let the bottom screen border get to you and it's game over.
+  The longer the game, the faster you have to climb.
+ The game will generate platforms to help the player climb.
+  The platforms are random, so every session will be different.
+ Dont let enemies hit you, or you will pay the price.
+  Enemies will spawn during your climb to try and stop you.
+ You can use only fight back enemies if you have the right powerups.
+  Powerups and equipments will spawn during the game. The player must touch them to obtain, and they can be used to fight back and remove   enemies from your path.
+ 
+ *The most important law of the game is dont let the border hit you. Once that has been done, the game score will be finalized and you will have to start another session from zero.
+ 
+ *The game will not spoonfeed players about every rule of the game, part of the fun is discovering the laws by yourself.
 
-### 4. חוקים
-
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
-
+ 
+ 
 
 ### 5. משאבים
 
