@@ -18,11 +18,8 @@ While you are ascending to the the sky, different monsters and aliens will try t
 
 המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
-### 1. שחקנים
+### 1. Players
 
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
  
  * The game is fit for all ages. Players that are new to video games will find the game easy to start playing, but more experienced players will find it hard to master.
  
@@ -30,13 +27,12 @@ While you are ascending to the the sky, different monsters and aliens will try t
  
  *The nature of this game is to reach as high as possible, so your main goal is to score higher than your friend, or even the highest score yet!
 
-### 2. יעדים
+### 2. Goals of the game
+*The player's goal is to reach as high as possible. While climbing to the sky, the player will be able to obtain powerups and equipment that will help him climb faster and to defeat enemies that will try to stop his climb.
+ 
+*The score of the player will be presented during the game session so that you can keep of your progress.
 
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
-
-
-### 3. תהליכים
+### 3. Proccesses
 
 תארו בפירוט את:
 
