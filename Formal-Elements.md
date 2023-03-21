@@ -176,7 +176,8 @@ The equipment system will give the player new tools to deal with enemies, which 
 
 * Law element- under the law elemnt we have the enemy system which will add another layer to the game- dodge enemies or defeat them, its the player's choice. Stronger enemies await the higher you go meaning the player will have to adapt to the new challenge and figure out different ways to move past thhem.
 
-
+What makes Shoot for the Sky unique, is the ever changing gameplay. As you progress you will keep finding new equipment, new powerups and new enemies. 
+Each aspect of those will drastically change how you approach the game, so be prepared and give it your best shot!
 
 
 </div>
