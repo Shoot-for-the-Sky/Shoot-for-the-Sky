@@ -96,13 +96,6 @@ While you are ascending to the the sky, different monsters and aliens will try t
 
 ### 7. Borders
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
-
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
 
 Shoot for the Sky is a continuous scrolling game, where the lower border of the game "chases" the player and the upper border of the game is virtually infinite.
 The horizontal borders of the game are constant and immovable.
@@ -113,11 +106,16 @@ The bottom border keep chasing him, and the upper border is the sky!
 The game map is generated in real time as the player climbs. By the nature of climbing games, there is only one way to go which is up.
 
 
-### 8. תוצאות
+### 8. Results
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+
+What makes the game interesting is the motivation to score as much as possible, which gives the game a big replayability value.
+That means, that essentialy there are infinite amount of results.
+
+The result of a game session is mostly skills but has a small factor of luck.
+Because the platforms, powerups and equipment are uniquely generated each session, the game layout is different every time.
+
+The game is a complex type of game, where the player battles against the game rules by himself.
 
 ---
 
