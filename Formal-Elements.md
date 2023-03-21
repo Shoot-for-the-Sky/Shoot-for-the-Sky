@@ -53,7 +53,7 @@ When starting a new session the game will show the player the movement keys, but
 
 * The laws are simple. 
  Let the bottom screen border get to you and it's game over.
-  The longer the game, the faster you have to climb.
+  *The longer the game, the faster you have to climb.
  The game will generate platforms to help the player climb.
   The platforms are random, so every session will be different.
  Dont let enemies hit you, or you will pay the price.
