@@ -1,26 +1,20 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# Shoot for the Sky!
+**tagline: The earth is dying! Try to reach the sky to save yourself!**
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+## The game's essence
 
-## מהות המשחק
-
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
-
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
-
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
-
+Shoot for the Sky is a platform jumper game, where your goal is to reach as high as possible without reaching the screen's border.
+While you are ascending to the the sky, different monsters and aliens will try to stop you from escaping from your death!
+ The higher you get the higher your score.
+ Will they be able to get you? How high will you go?
+ 
+ Shoot for the Sky is a game designed to be played on a computer.
 ---
 
 
-## רכיבים רשמיים
-
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
+## Formal elements
 
 המחישו את התשובות שלכם בעזרת ציורי-מסך.
 
@@ -29,6 +23,12 @@
 * לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
 * לכמה שחקנים מיועד המשחק?
 * מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
+ 
+ * The game is fit for all ages. Players that are new to video games will find the game easy to start playing, but more experienced players will find it hard to master.
+ 
+ *Shoot for the Sky is a singleplayer game.
+ 
+ *The nature of this game is to reach as high as possible, so your main goal is to score higher than your friend, or even the highest score yet!
 
 ### 2. יעדים
 
