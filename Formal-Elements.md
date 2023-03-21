@@ -144,6 +144,14 @@ Doodle jump
 ![doodle_jump](https://user-images.githubusercontent.com/74679553/226708798-2b9b86b5-bb51-4562-b272-555d1a6319c5.gif)
 
 
+Icy tower
+
+![icy_tower](https://user-images.githubusercontent.com/74679553/226709524-931491c6-0596-4473-967b-5b643127cf95.gif)
+
+
+Mega jump
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OhbPVfBOudk?clip=UgkxhOfUSKFQl4SzEgrfbW2HmymK_1ojGxLv&amp;clipt=ELqeAhitvAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
