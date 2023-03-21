@@ -12,7 +12,7 @@ Shoot for the Sky is a platform jumper game, where your goal is to reach as high
 While you are ascending to the the sky, different monsters and aliens will try to stop you from escaping from your death!
  The higher you get the higher your score.
  Will they be able to get you? How high will you go?
- Shoot for the Sky is a game designed to be played on a computer.
+ * Shoot for the Sky is a game designed to be played on a computer.
  
 ---
 
