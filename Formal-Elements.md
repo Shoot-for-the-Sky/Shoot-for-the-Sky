@@ -1,4 +1,8 @@
 
+![shoot-for-the-sky-logo](https://user-images.githubusercontent.com/74679553/226669991-dbdf8632-ab49-43f5-90d5-fe2a31b2ecad.png)
+
+
+
 # Shoot for the Sky!
 **The earth is dying! Try to reach the sky to save yourself!**
 
