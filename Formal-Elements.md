@@ -1,4 +1,3 @@
-<div dir='rtl' lang='en'>
 
 # Shoot for the Sky!
 **The earth is dying! Try to reach the sky to save yourself!**
