@@ -1,9 +1,9 @@
 
-![shoot-for-the-sky-logo](https://user-images.githubusercontent.com/74679553/226669991-dbdf8632-ab49-43f5-90d5-fe2a31b2ecad.png)
 
 
 
-# Shoot for the Sky!
+# Shoot for the Sky!![shoot-for-the-sky-high-resolution-logo-color-on-transparent-background](https://user-images.githubusercontent.com/74679553/226707143-eacc3d0c-10d1-4bb2-87d7-fe72c7986229.png)
+
 **The earth is dying! Try to reach the sky to save yourself!**
 
 ## The game's essence
