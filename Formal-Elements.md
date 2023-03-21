@@ -36,22 +36,22 @@ While you are ascending to the the sky, different monsters and aliens will try t
 
 תארו בפירוט את:
 
-*The starting proccess of the game is the player's first jump (interaction) in the game and soon after the game begins.
+ *The starting proccess of the game is the player's first jump (interaction) in the game and soon after the game begins.
  The screen of the game is ever moving so to give the players a feel of urgency, hesitate and it's game over.
  
-*The core proccess of the game is jumping! As a climbing game you most be comfortable with jumping, and jumping fast. You will need to time your jumps perfectly or you might not be able to reach the next platform. While climbing you might find special powerups that will make your 
+ *The core proccess of the game is jumping! As a climbing game you most be comfortable with jumping, and jumping fast. You will need to time your jumps perfectly or you might not be able to reach the next platform. While climbing you might find special powerups that will make your 
  ascend quicker and more exciting.
  The player will use the keyboard to perform movement actions, such as moving the charcter left and right and the most important jump key.
  There is one more special key that will give the player the ability to perform special actions during the game, but those are dependent on finding powerups beforehand.
  
  
- *Shoot for the Sky is and endless climbing game. The game session is finished when the player's final jump is performed. The higher you reach the better the score. The camera is following the player for not only cinematics but for setting the game's arena, once the lower border of the screen catches up with the player, it is game over.
+  *Shoot for the Sky is and endless climbing game. The game session is finished when the player's final jump is performed. The higher you reach the better the score. The camera is following the player for not only cinematics but for setting the game's arena, once the lower border of the screen catches up with the player, it is game over.
  
 When starting a new session the game will show the player the movement keys, but will not teach the player strategies or tips. Those will be up to the player to discover.
  
 ### 4. Laws of the game
 
-* The laws are simple. 
+ * The laws are simple. 
  Let the bottom screen border get to you and it's game over.
   *The longer the game, the faster you have to climb.
  The game will generate platforms to help the player climb.
