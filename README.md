@@ -1,4 +1,4 @@
-# Shoot for the Sky!
+# Shoot for the Sky
 
 ## The earth is dying! Try to reach the sky to save yourself!
 
