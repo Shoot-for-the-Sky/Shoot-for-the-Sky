@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Platfrom
   - Ground
+  - Undefined
+  - LogicManagerScript
   layers:
   - Default
   - TransparentFX

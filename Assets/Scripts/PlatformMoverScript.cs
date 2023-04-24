@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class PlatformMoverScript : MonoBehaviour
 {
-    [SerializeField] protected float minMoveSpeed = 4.0f;
-    [SerializeField] protected float maxMoveSpeed = 6.0f;
+    [SerializeField] protected float minMoveSpeed = 2.0f;
+    [SerializeField] protected float maxMoveSpeed = 3.0f;
     [SerializeField] protected float deadZone = -10.0f;
     [SerializeField] protected float rangeSpawnDistance = 5.0f;
+    [SerializeField] protected float jumpForce = 10.0f;
     private float velocity;
 
     // Start is called before the first frame update
@@ -25,10 +26,25 @@ public class PlatformMoverScript : MonoBehaviour
     void Update()
     {
         transform.position = transform.position + (Vector3.down * velocity) * Time.deltaTime;
-        if (transform.position.y < deadZone)
+        GameObject mainCamera = GameObject.FindGameObjectsWithTag("MainCamera")[0];
+        if (transform.position.y < mainCamera.transform.position.y + deadZone)
         {
             Debug.Log("Platform deleted");
             Destroy(gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.relativeVelocity.y <= 0f)
+        {
+            Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                Vector2 velocity = rb.velocity;
+                velocity.y = jumpForce;
+                rb.velocity = velocity;
+            }
         }
     }
 }
