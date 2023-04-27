@@ -27,7 +27,8 @@ public class PlatformMoverScript : MonoBehaviour
     {
         transform.position = transform.position + (Vector3.down * velocity) * Time.deltaTime;
         GameObject mainCamera = GameObject.FindGameObjectsWithTag("MainCamera")[0];
-        if (transform.position.y < mainCamera.transform.position.y + deadZone)
+        bool PlatformOutOfDeadZone = transform.position.y < mainCamera.transform.position.y + deadZone;
+        if (PlatformOutOfDeadZone)
         {
             Debug.Log("Platform deleted");
             Destroy(gameObject);

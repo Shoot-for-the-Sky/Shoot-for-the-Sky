@@ -6,8 +6,8 @@ using UnityEngine;
 public class TimedSpawner : MonoBehaviour
 {
     [SerializeField] protected GameObject perfabToSpawn;
-    [SerializeField] protected float minSecondsBetweenSpawns = 0.5f;
-    [SerializeField] protected float maxSecondsBetweenSpawns = 0.8f;
+    [SerializeField] protected float minSecondsBetweenSpawns = 0.3f;
+    [SerializeField] protected float maxSecondsBetweenSpawns = 0.6f;
     [SerializeField] protected float distanceAbovePlayer = 10.0f;
     [SerializeField] private GameObject player;
     [SerializeField] private GameObject mainCamera;
